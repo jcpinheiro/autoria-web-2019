@@ -1,7 +1,7 @@
 body {
 	font-family: Arial, sans-serif;
 	width: 90%;
-	color: #DDD;
+	color: #222;
 	
 	margin-right: auto;
 	margin-left: auto; 
@@ -12,6 +12,8 @@ body {
 	text-align: center;
 	margin-bottom: 30px;
 }
+
+
 
 #email {
 	color: #3b3be6;
@@ -35,12 +37,15 @@ h2 {
 	/* border-radius: 15px; */
 	border-top-left-radius: 25px;
 	border-bottom-right-radius: 43px;
-	
-	
 }
 
+
 .experiencia {
-	text-indent: 30px;
+	text-indent: 4ch;
+}
+
+.enfase {
+	font-weight: bold;
 }
 
 .tec {
